@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Rproj.user/
+/data/raw/*.csv
+!/data/raw/.gitkeep
+/data/processed/*
+!/data/processed/.gitkeep
+/output/charts/*
+!/output/charts/.gitkeep
+/output/tables/*
+!/output/tables/.gitkeep
+/output/results/*
+!/output/results/.gitkeep
